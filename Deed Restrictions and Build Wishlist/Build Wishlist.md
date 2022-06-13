@@ -1,0 +1,38 @@
+# Example / Possible buildlist requirements (Non - final, just ideas for future reference)
+
+
+- Restrooms
+	- Bidet "power outlet" near each toilet
+	- Heated floors
+	- Pocket doors for in-suite restrooms
+	- "Double swing" pocket doors for master bedroom
+- Living/Dining Room
+	- Large "double swing" pocket door seperating TV room from dining room
+- Windows
+	- low voltage runs by each window for controlling the shades
+- Networking
+	- Note:  May want to keep runs <40 feet to enable/allow for 10-40G ethernet (future proofing)
+	- CAT8 networking
+	- CAT8 runs into "main areas" on each floor (1 per floor) to connect a "primary" access point
+	- Entry doors
+		- Two CAT8 runs to each entry door into home
+			- Ubiquiti Connect & Access 
+		- All hardware is satin nickel
+	- 2-3 CAT 8 cable runs into each bedroom
+		- 1 per each "wall" of the room so desks/remodeling can be placed wherever
+	- "Closet Offices"
+		- 3-4 CAT8 runs into "closet offices"
+		- 1 CAT8 run for ubiquity access
+	- 
+- Kitchen
+	- Water fountain/drinkable water
+		- Benefit:  No dependency on "filtered" water
+		- Disbenefit:  Cost $
+	- Cabinets going all the way to the ceiling
+		- Benefit:  No fat/gunk on top of cabinets if you cook a lot
+		- Disbenefit:  Inaccessible cabinets to small people
+	- Way to insulate and segregate kitchen so that it could be "opened up" to release heat to environment instead of into house to HVAC system
+	- Pantry with an outlet and a light in it
+- Water
+	- "Water fountain" on each floor where water is filtered. 
+	- 
